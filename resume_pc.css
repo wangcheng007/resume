@@ -108,7 +108,7 @@ a {
   min-height: 105px;
 }
 .person-info .icon {
-  background: url('../image/person_info_icon.png') no-repeat;
+  background: url('./image/person_info_icon.png') no-repeat;
 }
 .person-info .detail-list .info-left {
   float: left;
@@ -124,7 +124,7 @@ a {
   min-height: 175px;
 }
 .pro-skill .icon {
-  background: url('../image/pro_skill_icon.png') no-repeat;
+  background: url('./image/pro_skill_icon.png') no-repeat;
 }
 .pro-skill ul {
   padding: 0;
@@ -135,7 +135,7 @@ a {
   min-height: 520px;
 }
 .work-experience .icon {
-  background: url('../image/work_experience_icon.png') no-repeat;
+  background: url('./image/work_experience_icon.png') no-repeat;
 }
 .work-experience .detail-list .company {
   margin-top: 18px;
@@ -153,7 +153,7 @@ a {
   font-weight: bold;
   padding-left: 24px;
   font-size: 17px;
-  background: url("../image/li_icon.png") no-repeat;
+  background: url("./image/li_icon.png") no-repeat;
   -ms-background-position-y: 8px;
   background-position-y: 8px;
 }
@@ -186,7 +186,7 @@ a {
   min-height: 270px;
 }
 .open-source .icon {
-  background: url('../image/open_source_icon.png') no-repeat;
+  background: url('./image/open_source_icon.png') no-repeat;
 }
 .open-source .detail-list ul {
   padding: 0;
@@ -208,7 +208,7 @@ a {
   position: relative;
 }
 .honor-eva .honor-reward .icon {
-  background: url('../image/honor_reward_icon.png') no-repeat;
+  background: url('./image/honor_reward_icon.png') no-repeat;
 }
 .honor-eva .honor-reward .short-line {
   width: 276px;
@@ -222,7 +222,7 @@ a {
   position: relative;
 }
 .honor-eva .self-evaluation .icon {
-  background: url('../image/self_evaluation_icon.png') no-repeat;
+  background: url('./image/self_evaluation_icon.png') no-repeat;
 }
 .honor-eva .self-evaluation .short-line {
   width: 350px;
